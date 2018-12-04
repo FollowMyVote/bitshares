@@ -8,5 +8,5 @@
     ignore = dirty
 [submodule "libraries/leveldb"]
 	path = libraries/leveldb
-	url = https://github.com/bitcoin/leveldb.git
+	url = https://github.com/bitcoin-core/leveldb-old.git
     ignore = dirty
